@@ -1,0 +1,6 @@
+{
+  "name": "EHS PPE Compliance Architecture Platform",
+  "description": "Enterprise EHS PPE platform featuring fine-tuned YOLOv9-e inference, photo upload for instant OSHA PPE compliance verification with anatomical zone audit certificates, dynamic camera addition, live WebRTC multi-grid overlays, interactive per-camera rule matrix, compliance heatmaps, and Active Learning triage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
